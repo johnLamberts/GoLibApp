@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "student_number": "S001",
+    "fname": "John",
+    "mname": "Michael",
+    "lname": "Smith",
+    "email": "john.smith@example.com"
+  },
+  {
+    "id": 2,
+    "student_number": "S002",
+    "fname": "Emily",
+    "mname": "Grace",
+    "lname": "Johnson",
+    "email": "emily.johnson@example.com"
+  },
+  {
+    "id": 3,
+    "student_number": "S003",
+    "fname": "Michael",
+    "mname": "James",
+    "lname": "Brown",
+    "email": "michael.brown@example.com"
+  },
+  {
+    "id": 4,
+    "student_number": "S004",
+    "fname": "Olivia",
+    "mname": "Marie",
+    "lname": "Davis",
+    "email": "olivia.davis@example.com"
+  },
+  {
+    "id": 5,
+    "student_number": "S005",
+    "fname": "William",
+    "mname": "Alexander",
+    "lname": "Wilson",
+    "email": "william.wilson@example.com"
+  },
+  {
+    "id": 6,
+    "student_number": "S006",
+    "fname": "Sophia",
+    "mname": "Lynn",
+    "lname": "Martinez",
+    "email": "sophia.martinez@example.com"
+  },
+  {
+    "id": 7,
+    "student_number": "S007",
+    "fname": "Daniel",
+    "mname": "Joseph",
+    "lname": "Anderson",
+    "email": "daniel.anderson@example.co"
+  },
+  {
+    "id": 8,
+    "student_number": "S008",
+    "fname": "Ava",
+    "mname": "Elizabeth",
+    "lname": "Thompson",
+    "email": "ava.thompson@example.com"
+  },
+  {
+    "id": 9,
+    "student_number": "S009",
+    "fname": "James",
+    "mname": "David",
+    "lname": "Harris",
+    "email": "james.harris@example.com"
+  },
+  {
+    "id": 10,
+    "student_number": "S010",
+    "fname": "Mia",
+    "mname": "Rose",
+    "lname": "Walker",
+    "email": "mia.walker@example.com"
+  },
+  {
+    "id": 11,
+    "student_number": "S011",
+    "fname": "Alexander",
+    "mname": "Robert",
+    "lname": "Garcia",
+    "email": "alexander.garcia@example.cm"
+  },
+  {
+    "id": 12,
+    "student_number": "S012",
+    "fname": "Abigail",
+    "mname": "Nicole",
+    "lname": "Clark",
+    "email": "abigail.clark@example.com"
+  },
+  {
+    "id": 13,
+    "student_number": "S013",
+    "fname": "Ethan",
+    "mname": "Samuel",
+    "lname": "Lewis",
+    "email": "ethan.lewis@example.com"
+  },
+  {
+    "id": 14,
+    "student_number": "S014",
+    "fname": "Charlotte",
+    "mname": "Anne",
+    "lname": "White",
+    "email": "charlotte.white@example.co"
+  },
+  {
+    "id": 15,
+    "student_number": "S015",
+    "fname": "Liam",
+    "mname": "Benjamin",
+    "lname": "Turner",
+    "email": "liam.turner@example.com"
+  },
+  {
+    "id": 16,
+    "student_number": "S016",
+    "fname": "Harper",
+    "mname": "Grace",
+    "lname": "Hall",
+    "email": "harper.hall@example.com"
+  },
+  {
+    "id": 17,
+    "student_number": "S017",
+    "fname": "Benjamin",
+    "mname": "Patrick",
+    "lname": "Green",
+    "email": "benjamin.green@example.com"
+  },
+  {
+    "id": 18,
+    "student_number": "S018",
+    "fname": "Avery",
+    "mname": "Joseph",
+    "lname": "Baker",
+    "email": "avery.baker@example.com"
+  },
+  {
+    "id": 19,
+    "student_number": "S019",
+    "fname": "Henry",
+    "mname": "William",
+    "lname": "King",
+    "email": "henry.king@example.com"
+  },
+  {
+    "id": 20,
+    "student_number": "S020",
+    "fname": "Ella",
+    "mname": "Marie",
+    "lname": "Adams",
+    "email": "ella.adams@example.com"
+  }
+]
