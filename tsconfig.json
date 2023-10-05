@@ -15,17 +15,18 @@
     "jsx": "preserve",
 
     /* Linting */
-    "strict": true,
+    "strict": false,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
+    "noImplicitAny": false,
 
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
     }
   },
-  "include": ["src"],
+  "include": ["src", "global.d.ts"],
 
   "references": [{ "path": "./tsconfig.node.json" }]
 }

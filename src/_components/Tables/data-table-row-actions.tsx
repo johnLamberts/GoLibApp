@@ -20,12 +20,6 @@ import { Row } from "@tanstack/react-table";
 // import { Button } from "@/components/ui/button";
 // import { MoreHorizontal, X } from "lucide-react";
 
-declare module "react" {
-  function forwardRef<T, P = Record<string, any>>(
-    render: (props: P, ref: React.Ref<T>) => React.ReactElement | null
-  ): (props: P & React.RefAttributes<T>) => React.ReactElement | null;
-}
-
 interface DataTableRowActionsProps<TData> {
   row: Row<TData>;
 }

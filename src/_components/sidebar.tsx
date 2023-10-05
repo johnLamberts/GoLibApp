@@ -7,7 +7,7 @@ export default function Sidebar() {
   return (
     <>
       <ScrollArea>
-        <div className="h-full border-r flex flex-col shadow sm ">
+        <div className="h-full border-r flex flex-col shadow-sm pt-1">
           <div className="p-6">
             <Logo />
           </div>

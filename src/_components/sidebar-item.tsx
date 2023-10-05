@@ -1,5 +1,4 @@
 import { Button } from "@/components/ui/button";
-import { useTheme } from "@/themes/themes-provider";
 import { LucideIcon } from "lucide-react";
 import { NavLink, useLocation } from "react-router-dom";
 

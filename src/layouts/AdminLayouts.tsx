@@ -16,7 +16,7 @@ export default function AdminLayouts() {
           <Navbar />
         </div>
 
-        <div className="hidden md:flex h-full w-60 flex-col fixed inset-y-0 z-50 ">
+        <div className="hidden md:flex h-full w-60  flex-col fixed inset-y-0 z-50 supports-backdrop-blur:bg-background/60 top-0 bg-background/95 backdrop-blur">
           <Sidebar />
         </div>
 

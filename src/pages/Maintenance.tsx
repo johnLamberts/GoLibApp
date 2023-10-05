@@ -37,10 +37,6 @@ export default function Maintenance() {
         </aside>
 
         <div className="flex-1 flex flex-col lg:max-w-6xl ">
-          <Separator
-            orientation="vertical"
-            className="h-100% absolute hidden md:block"
-          />
           <Separator className="my-6 md:hidden" />
           <div className="mx-5">
             <Outlet />
